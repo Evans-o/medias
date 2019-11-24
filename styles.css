@@ -1,0 +1,16 @@
+@media screen and (min-width:320px) and (max-width:1280px){
+    body{
+        background-color:black;
+        color:green;
+    }
+    .column {
+        width: 220px;
+        float: left;
+        padding: 15px;
+      }
+}
+.column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
